@@ -3,6 +3,6 @@ updates:
   - package-ecosystem: "pip"
     directory: "/" # onde está o requirements.txt
     schedule:
-      interval: "weekly" # pode ser daily, weekly ou monthly
+      interval: "daily" # pode ser daily, weekly ou monthly
     open-pull-requests-limit: 5
     
